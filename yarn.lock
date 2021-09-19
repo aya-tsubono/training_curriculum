@@ -148,6 +148,7 @@
     "@babel/types" "^7.15.4"
 
 "@babel/helper-module-transforms@^7.14.5", "@babel/helper-module-transforms@^7.15.4":
+
   version "7.15.4"
   resolved "https://registry.yarnpkg.com/@babel/helper-module-transforms/-/helper-module-transforms-7.15.4.tgz#962cc629a7f7f9a082dd62d0307fa75fe8788d7c"
   integrity sha512-9fHHSGE9zTC++KuXLZcB5FKgvlV83Ox+NLUmQTawovwlJ85+QMhk1CnVk406CQVj97LaWod6KVjl2Sfgw9Aktw==
@@ -156,6 +157,7 @@
     "@babel/helper-replace-supers" "^7.15.4"
     "@babel/helper-simple-access" "^7.15.4"
     "@babel/helper-split-export-declaration" "^7.15.4"
+
     "@babel/helper-validator-identifier" "^7.14.9"
     "@babel/template" "^7.15.4"
     "@babel/traverse" "^7.15.4"
@@ -252,6 +254,7 @@
     js-tokens "^4.0.0"
 
 "@babel/parser@^7.15.4", "@babel/parser@^7.15.5":
+
   version "7.15.6"
   resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.15.6.tgz#043b9aa3c303c0722e5377fef9197f4cf1796549"
   integrity sha512-S/TSCcsRuCkmpUuoWijua0Snt+f3ewU/8spLo+4AXJCZfT0bVCzLD5MuOKdrx0mlAptbKzn5AdgEIIKXxXkz9Q==
